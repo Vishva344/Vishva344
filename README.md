@@ -15,7 +15,6 @@ I am Vishva Dadhaniya. I am hardworking engineering graduate specialized in comp
 <li>Hibernate</li>
 <li>Spring</li>
 <li>Django</li>
-<li>Flask</li>
 <li>Node js</li>
 </br>
 
