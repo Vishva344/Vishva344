@@ -14,7 +14,6 @@ I am Vishva Dadhaniya. I am hardworking engineering graduate specialized in comp
 ## Frameworks I know :
 <li>Hibernate</li>
 <li>Spring</li>
-<li>Django</li>
 <li>Node js</li>
 </br>
 
